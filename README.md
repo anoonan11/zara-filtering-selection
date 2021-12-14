@@ -10,11 +10,11 @@ the user clicks on the hamburger menu icon, a dropdown list opens and options
 to filter for various content is listed (see Figure 1). Once the user clicks on one of
 the options, the dropdown updates to content specific to that filter (see Figure 2).
 
-<img src="./resources/sidebar1.png" style="  display:block;margin-left: auto;margin-right: auto;width: 50%;">
+<img  align="center" src="./resources/sidebar1.png" style="  display:block;margin-left: auto;margin-right: auto;width: 50%;">
 
 <em style="  display:block;margin-left: auto;margin-right: auto;width: 50%;">Figure 1: Initial view of the Zara dropdown menu</em>
 
-<img src="./resources/sidebar2.png" style="  display:block;margin-left: auto;margin-right: auto;width: 50%;">
+<img align="center" src="./resources/sidebar2.png" style="  display:block;margin-left: auto;margin-right: auto;width: 50%;">
 
 <em style="  display:block;margin-left: auto;margin-right: auto;width: 50%;">Figure 2: View of the Zara dropdown menu when the user clicks a
 filter (in this example, the user clicked the filter for “WOMAN”</em>
@@ -335,7 +335,7 @@ users, are eliminated. Only the Search option remains, yet it combines the abili
 of the eliminated dropdown categorical menu and the filter options, as will be
 clear in Card 2.
 
-<img src="./resources/redesign.png" style="  display:block;margin-left: auto;margin-right: auto;width:90%">
+<img  align="center"  src="./resources/redesign.png" style="  display:block;margin-left: auto;margin-right: auto;width:90%">
 
 <em style="  display:block;margin-left: auto;margin-right: auto;width: 90%;">Figure 3: Card 1, Card 2, and Card 3, the redesigned Zara homepage, redesigned Zara search page, and redesigned Zara search results page</em>
 

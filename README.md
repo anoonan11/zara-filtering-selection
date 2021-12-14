@@ -1,6 +1,18 @@
 # Analyzing and Redesigning Zara’s Website
 By Anne Noonan
 
+# Table of Contents
+- [Analyzing and Redesigning Zara’s Website](#analyzing-and-redesigning-zara-s-website)
+  * [1 INTRODUCTION](#1-introduction)
+  * [2 INITIAL NEEDFINDING](#2-initial-needfinding)
+  * [3 HEURISTIC EVALUATION](#3-heuristic-evaluation)
+  * [4 INTERFACE REDESIGN](#4-interface-redesign)
+  * [5 INTERFACE JUSTIFICATION](#5-interface-justification)
+  * [6 EVALUATION PLAN](#6-evaluation-plan)
+  * [7 EVALUATION EXECUTION](#7-evaluation-execution)
+  * [8 REFERENCES](#8-references)
+  * [9 APPENDIX](#9-appendix)
+
 ## 1 INTRODUCTION 
 
 The interface I have chosen to redesign is the Zara website on an internet browser.

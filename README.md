@@ -12,12 +12,12 @@ the options, the dropdown updates to content specific to that filter (see Figure
 
 <p align="center" ><img src="./resources/sidebar1.png" style="  display:block;margin-left: auto;margin-right: auto;width: 50%;"></p>
 
-<em align="center" style="  display:block;margin-left: auto;margin-right: auto;width: 50%;">Figure 1: Initial view of the Zara dropdown menu</em>
+<p><em style="  display:block;margin-left: auto;margin-right: auto;width: 50%;">Figure 1: Initial view of the Zara dropdown menu</em></p>
 
 <p align="center" ><img src="./resources/sidebar2.png" style="  display:block;margin-left: auto;margin-right: auto;width: 50%;"></p>
 
-<em align="center" style="  display:block;margin-left: auto;margin-right: auto;width: 50%;">Figure 2: View of the Zara dropdown menu when the user clicks a
-filter (in this example, the user clicked the filter for “WOMAN”</em>
+<p align="center" ><em style="  display:block;margin-left: auto;margin-right: auto;width: 50%;">Figure 2: View of the Zara dropdown menu when the user clicks a
+filter (in this example, the user clicked the filter for “WOMAN”</em></p>
 
 ## 2 INITIAL NEEDFINDING
 
@@ -337,7 +337,7 @@ clear in Card 2.
 
 <p align="center" ><img  src="./resources/redesign.png" style="  display:block;margin-left: auto;margin-right: auto;width:90%"></p>
 
-<em align="center" style="  display:block;margin-left: auto;margin-right: auto;width: 90%;">Figure 3: Card 1, Card 2, and Card 3, the redesigned Zara homepage, redesigned Zara search page, and redesigned Zara search results page</em>
+<p align="center" ><em style="  display:block;margin-left: auto;margin-right: auto;width: 90%;">Figure 3: Card 1, Card 2, and Card 3, the redesigned Zara homepage, redesigned Zara search page, and redesigned Zara search results page</em></p>
 
 ### 4.2 SEARCH / FILTER PAGE
 
